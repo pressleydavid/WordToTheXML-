@@ -1,0 +1,2803 @@
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+<w:body>
+  <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="TableGrid"/>
+        <w:tblW w:w="0" w:type="auto"/>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="1956"/>
+        <w:gridCol w:w="7332"/>
+      </w:tblGrid>
+          <w:tr>
+        <w:trPr>
+          <w:tblHeader/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableHeadingRow"/>
+              <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Table Number</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableHeadingRow"/>
+              <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Table Title</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Subject Accountability (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.</w:t>
+            </w:r>
+            <w:bookmarkStart w:id="281" w:name="_GoBack"/>
+            <w:bookmarkEnd w:id="281"/>
+            <w:r>
+              <w:t>1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Subject Accountability (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.2.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t xml:space="preserve">Summary of Demographics (June 30, 2009) &#8211; Randomized ITT Population </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.2.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Demographics (June 30, 2012) &#8211; Randomized ITT Population</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.2.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t xml:space="preserve">Summary of Demographics (June 30, 2009) &#8211; Randomized + Stratum 07 Safety Population </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.2.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Demographics (June 30, 2012) &#8211; Randomized + Stratum 07 Safety Population</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.3.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Baseline Disease Characteristics  (June 30, 2009) &#8211; Randomized ITT Population</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.3.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Baseline Disease Characteristics  (June 30, 2012) &#8211; Randomized ITT Population</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.3.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Baseline Disease Characteristics  (June 30, 2009) &#8211; Randomized + Stratum 07 Safety Population</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.3.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Baseline Disease Characteristics  (June 30, 2012) &#8211; Randomized + Stratum 07 Safety Population</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.4.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Baseline Performance Status (June 30, 2009) &#8211; Randomized ITT Population</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.4.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Baseline Performance Status (June 30, 2012) &#8211; Randomized ITT Population</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.4.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Baseline Performance Status (June 30, 2009) &#8211; Randomized + Stratum 07 Safety Population</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.4.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Baseline Performance Status (June 30, 2012) &#8211; Randomized + Stratum 07 Safety Population</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.4.3.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of  Baseline Prognostic Factors (June 30, 2009) &#8211; Randomized ITT Population</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.4.3.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of  Baseline Prognostic Factors (June 30, 2012) &#8211; Randomized ITT Population</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.5.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Study Drug Dosing and Exposure (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.1.5.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Study Drug Dosing and Exposure (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Event-Free Survival Analysis (primary analysis):  Randomized ITT Population (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Event-Free Survival Analysis (primary analysis):  Randomized ITT Population (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Time to Event-Free Survival:  Randomized ITT Population (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Time to Event-Free Survival:  Randomized ITT Population (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.3.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Event-Free Survival Analysis:  INSS Stage 4 Randomized ITT population (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.3.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Event-Free Survival Analysis:  INSS Stage 4 Randomized ITT population (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.4.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Time to Event-Free Survival:  INSS Stage 4 Randomized ITT Population (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:lastRenderedPageBreak/>
+              <w:t>14.2.1.4.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Time to Event-Free Survival:  INSS Stage 4 Randomized ITT Population (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.5.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Event-Free Survival:  Stratum 07  (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.5.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Event-Free Survival:  Stratum 07  (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.6.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Event-Free Survival within Prognostic Factors (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.6.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Event-Free Survival within Prognostic Factors (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.7.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Event-Free Survival Interaction with Prognostic Factors (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.7.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Event-Free Survival Interaction with Prognostic Factors (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.1.8</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Event-Free Survival Interaction with HACA Positive Findings (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Overall Survival Analysis: Randomized ITT Population (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Overall Survival Analysis: Randomized ITT Population (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Time to Overall Survival: Randomized ITT Population (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Time to Overall Survival: Randomized ITT Population (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.3.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Overall Survival Analysis:  INSS Stage 4 Randomized ITT population (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.3.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Overall Survival Analysis:  INSS Stage 4 Randomized ITT population (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.4.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Time to Overall Survival:  INSS Stage 4 Randomized ITT Population (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.4.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Time to Overall Survival:  INSS Stage 4 Randomized ITT Population (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.5.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Overall Survival within Prognostic Factors (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.5.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Overall Survival within Prognostic Factors (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.6.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Overall Survival Interaction with Prognostic Factors (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.6.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Overall Survival Interaction with Prognostic Factors (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.2.7</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Overall Survival Interaction with HACA Positive Findings (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.3.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Disease Status (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.3.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Disease Status (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.4.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+              <w:jc w:val="both"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of MIBG Results (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.4.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+              <w:jc w:val="both"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of MIBG Results (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.5.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+              <w:jc w:val="both"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of HACA Results (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.5.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of HACA Frequency Across Treatment Groups (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.67.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of ch14.18 Plasma Results (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.7.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Soluble IL-2 Receptor Levels (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.8.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Relapse and Progression Reports (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.2.8.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Relapse and Progression Reports (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.1.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Overall Summary of Toxicities (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.1.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Overall Summary of Toxicities (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:lastRenderedPageBreak/>
+              <w:t>14.3.1.1.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Overall Summary of Targeted Toxicities (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.1.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Overall Summary of Targeted Toxicities (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.1.3.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Overall Summary of  Non-targeted Toxicities (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.1.3.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Overall Summary of Non-targeted Toxicities (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.2.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of All Toxicities by System Organ Class (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.2.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of All Toxicities by System Organ Class (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.2.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of All Toxicities by Preferred Term (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.2.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of All Toxicities by Preferred Term (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.3.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Targeted Toxicities by Preferred Term (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.3.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Targeted Toxicities by Preferred Term (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.3.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Non-Targeted Toxicities by Preferred Term (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.3.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Non-Targeted Toxicities by Preferred Term (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.4.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of All Toxicities by Course, Grade and Preferred Term (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.4.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of All Toxicities by Course, Grade and Preferred Term (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.4.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Targeted Toxicities by Course, Grade and Preferred Term (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.4.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Targeted Toxicities by Course, Grade and Preferred Term (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.4.3.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Non-targeted Toxicities by Course, Grade and Preferred Term (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.4.3.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Non-targeted Toxicities by Course, Grade and Preferred Term (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.5.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Pain-Related Toxicities by Course, Grade and Preferred Term (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.5.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Pain-Related Toxicities by Course, Grade and Preferred Term (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.6.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of All Attributable Toxicities by Preferred Term (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.6.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of All Attributable Toxicities by Preferred Term (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.6.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Attributable Targeted Toxicities by Preferred Term (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.6.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Attributable Targeted Toxicities by Preferred Term (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.6.3.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Attributable Non-Targeted Toxicities by Preferred Term (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.6.3.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Attributable Non-Targeted Toxicities by Preferred Term (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.6.4.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Attributable Grade 3 or Higher Toxicities by Preferred Term (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.1.6.4.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Attributable Grade 3 or Higher Toxicities by Preferred Term (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Adverse Events in the AdEERS Database by CTCAE Code (September 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Adverse Events in the AdEERS Database by Course at Onset (September 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.2.3</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Deaths (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.2.4</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Deaths (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:lastRenderedPageBreak/>
+              <w:t>14.3.4.1.1.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Segmented and Bands by Course/Cycle (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.4.1.1.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Segmented and Bands by Course/Cycle (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.4.1.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Lymphocytes by Course/Cycle (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.4.1.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Lymphocytes by Course/Cycle (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.4.1.3.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Monocytes by Course/Cycle (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.4.1.3.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Monocytes by Course/Cycle (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.4.2.1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Hospitalizations and Hospitalization Caused by Infection (June 30, 2009)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1956" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>14.3.4.2.2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7332" w:type="dxa"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="TableText0"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Summary of Hospitalizations and Hospitalization Caused by Infection (June 30, 2012)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+</w:body>
+</w:document>
