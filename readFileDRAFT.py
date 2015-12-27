@@ -1,5 +1,4 @@
 import zipfile
-import pickle
 from lxml import etree
 
 
@@ -59,22 +58,10 @@ SubE.text = ''.join(tabletext)
 
 SAP.write("/Users/David/Library/Mobile Documents/com~apple~CloudDocs/projects/XML/parsedSAP.xml", pretty_print=True)
 
-# findText = SAP.findtext()
 elementList = SAP.findall(".//w:tbl/w:tr/w:tc/w:p/w:r/w:t", namespaces=namespaces)
-# for elem in SAP.iterfind('.//w:tbl/w:tr/w:tc/w:p/w:r/w:t', namespaces=namespaces):
-#     print elem.tag, elem.text
+
 tables = SAP.xpath('.//w:tbl/w:tr/w:tc/w:p/w:r/w:t[text()="Table Title"]', namespaces=namespaces)
 
-# print tables
-# print tables[0].getnext().text
-# print tables[0].text
-# subtree = etree.ElementTree(tables[0])
-# root = subtree.XML()
-# print etree.tostring(subtree,pretty_print=True)
-# print tables[0].getparent()
-
-# new_tree = SAP.iterfind('.//w:tbl/w:tr/w:tc/w:p/w:r/w:t[text()="Table Number"]', namespaces=namespaces)
-# print new_tree.getparent()
 for elm in elementList:
         if elm.text == 'Table Number':
             print elementList.index(elm)
@@ -86,7 +73,7 @@ for elm in elementList:
 tableList2 = []
 for item in tableList:
     tableList2.append(item.text)
-# print tableList2
+
 
 T = []
 L = []
@@ -106,23 +93,18 @@ L = tableList2[listing_index:figure_index]
 T = tableList2[table_index:listing_index]
 
 
-T = dict(tableList2[i:i+2] for i in range(2, len(T), 2))
-L = dict(tableList2[i:i+2] for i in range(2, len(T), 2))
-F = dict(tableList2[i:i+2] for i in range(2, len(T), 2))
-with open('Tables.txt', 'wb') as handle:
-  pickle.dump(T, handle)
+Tdict = dict(T[i:i+2] for i in range(2, len(T), 2))
+Ldict = dict(L[i:i+2] for i in range(2, len(L), 2))
+Fdict = dict(F[i:i+2] for i in range(2, len(F), 2))
 
-outfile = open('dict.txt', 'w' )
-for key, value in sorted(T.items()):
+outfile = open('Tables', 'w' )
+for key, value in sorted(Tdict.items()):
     outfile.write(str(key) + '\t' + str(value.encode('utf-8')) + '\n' )
 
-# with open('Tables.txt', 'w') as csvfile:
-#     fieldnames=['table_number', 'table_name']
-#     writer = csv.DictWriter(csvfile,fieldnames=fieldnames,extrasaction='ignore')
+outfile = open('Listings', 'w' )
+for key, value in sorted(Ldict.items()):
+    outfile.write(str(key) + '\t' + str(value.encode('utf-8')) + '\n' )
 
-
-# with open('Tables2.txt', 'w') as f:
-#      f.writelines('{}:{}'.format(k,v) for k, v in T.items())
-#      f.write('\n')
-
-# print T
+outfile = open('Figures', 'w' )
+for key, value in sorted(Fdict.items()):
+    outfile.write(str(key) + '\t' + str(value.encode('utf-8')) + '\n' )
