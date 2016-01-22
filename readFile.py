@@ -17,8 +17,9 @@ def get_xml_tree(xml_string):
 # Open and parse the document
 namespaces = {'w': 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
 nsText = '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
-print etree.tostring(get_xml_tree(get_word_xml('/Users/David/projects/python/toc/SAPv2.docx')), pretty_print=True)
-SAP = get_xml_tree(get_word_xml('/Users/David/projects/python/toc/SAPv2.docx'))
+# print etree.tostring('/Users/David/projects/XML/Statistical Analysis Plan - TDE-PH-310_20151223 clean.xml', pretty_print=True)
+SAP = get_xml_tree(get_word_xml('/Users/David/projects/XML/Statistical Analysis Plan - TDE-PH-310_20151223 clean.docx'))
+print etree.tostring(SAP, pretty_print=True)
 
 
 tabletext = []
@@ -56,11 +57,29 @@ SubE = etree.SubElement(r, "{" + w + "}" + "t", nsmap=namespaces)
 SubE.text = ''.join(tabletext)
 
 
-SAP.write("/Users/David/Library/Mobile Documents/com~apple~CloudDocs/projects/XML/parsedSAP.xml", pretty_print=True)
+SAP.write("/Users/David/projects/XML/parsedSAP.xml", pretty_print=True)
 
 elementList = SAP.findall(".//w:tbl/w:tr/w:tc/w:p/w:r/w:t", namespaces=namespaces)
 
-tables = SAP.xpath('.//w:tbl/w:tr/w:tc/w:p/w:r/w:t[text()="Table Title"]', namespaces=namespaces)
+tables = SAP.xpath('//w:tbl/w:tr/w:tc/w:p/w:r/w:t[text()="Table Title"]/../../../../..', namespaces=namespaces)
+
+for i in tables.findall('./w:tr/w:tc/w:p/w:r/w:t', namespaces=namespaces):
+    print i.tag, i.text
+
+rootL = etree.iter(SAP.xpath('.//w:tbl/w:tr/w:tc/w:p/w:r/w:t[text()="Table Title"]', namespaces=namespaces))
+# print etree.Element(rootL[0])
+
+tree = etree.ElementTree(rootL[0])
+root = tree.getroot()
+print root.getnext()
+
+# print len(root)
+print etree.tostring(root[0])
+
+
+root.write("/Users/David/projects/XML/root.xml", pretty_print=True)
+# try to get the child of tables
+print tables.child()
 
 for elm in elementList:
         if elm.text == 'Table Number':
@@ -94,7 +113,9 @@ T = tableList2[table_index:listing_index]
 
 
 Tdict = dict(T[i:i+2] for i in range(2, len(T), 2))
+print Tdict
 Ldict = dict(L[i:i+2] for i in range(2, len(L), 2))
+print Ldict
 Fdict = dict(F[i:i+2] for i in range(2, len(F), 2))
 
 outfile = open('Tables', 'w' )
