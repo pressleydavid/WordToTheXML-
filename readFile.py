@@ -1,123 +1,71 @@
 import zipfile
 from lxml import etree
+import json
 
 
-#.docx files are XML underneath. zipfile gets at the directory which contains the document.xml
+
+# .docx files are XML underneath. zipfile gets at the directory which contains the document.xml
 def get_word_xml(docx_filename):
    with open(docx_filename) as f:
       zip = zipfile.ZipFile(f)
       xml_content = zip.read('word/document.xml')
    return xml_content
 
-#create an ElementTree from a string
+# create an ElementTree from a string
 def get_xml_tree(xml_string):
    return etree.ElementTree(etree.fromstring(xml_string))
 
 
-# Open and parse the document
+# Namespace for WordML
 namespaces = {'w': 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
-nsText = '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
-# print etree.tostring('/Users/David/projects/XML/Statistical Analysis Plan - TDE-PH-310_20151223 clean.xml', pretty_print=True)
+
+# Open and parse the document
 SAP = get_xml_tree(get_word_xml('/Users/David/projects/XML/Statistical Analysis Plan - TDE-PH-310_20151223 clean.docx'))
-print etree.tostring(SAP, pretty_print=True)
+# uncomment and print to have a look
+# print etree.tostring(SAP, pretty_print=True)
 
+# XPath for text elements corresponding to Table Title, Listing Number and Figure Number. Returns an list of elements.
+# XPath says :find Table Title, then back up the tree to the <w:tbl> element, which is the parent of all tables in the document,
+#     then traverses back down the tree to the <w:tc> (table column element)
+tables = SAP.xpath('//w:tbl/w:tr/w:tc/w:p/w:r/w:t[text()="Table Title"]/../../../../../w:tr/w:tc', namespaces=namespaces)
+listings = SAP.xpath('//w:tbl/w:tr/w:tc/w:p/w:r/w:t[text()="Listing Number"]/../../../../../w:tr/w:tc', namespaces=namespaces)
+figures = SAP.xpath('//w:tbl/w:tr/w:tc/w:p/w:r/w:t[text()="Figure Number"]/../../../../../w:tr/w:tc', namespaces=namespaces)
 
-tabletext = []
-for bmSt in SAP.findall(".//w:tbl/w:tr/w:tc/w:p/w:bookmarkStart", namespaces=namespaces):
-    bmParent = bmSt.getparent()
-    prev = bmSt.getprevious()
-    try:
-        prevchild = bmSt.getprevious().getchildren()
-        if prevchild[0].text != None:
-            tabletext.append(prevchild[0].text)
-        bmSt.getparent().remove(bmSt)
-        prev.getparent().remove(prev)
-    except:
-        pass
-
-
-for bmEnd in SAP.findall(".//w:tbl/w:tr/w:tc/w:p/w:bookmarkEnd", namespaces=namespaces):
-    next = bmEnd.getnext()
-    try:
-        nextchild = next.getchildren()
-        if nextchild[0].text != None:
-            tabletext.append(nextchild[0].text)
-        bmEnd.getparent().remove(bmEnd)
-        next.getparent().remove(next)
-    except:
-        pass
-
-
-txt = ''.join(tabletext)
-
-w = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
-r = etree.SubElement(bmParent,"{" + w + "}" + "r", nsmap=namespaces)
-
-SubE = etree.SubElement(r, "{" + w + "}" + "t", nsmap=namespaces)
-SubE.text = ''.join(tabletext)
-
-
-SAP.write("/Users/David/projects/XML/parsedSAP.xml", pretty_print=True)
-
-elementList = SAP.findall(".//w:tbl/w:tr/w:tc/w:p/w:r/w:t", namespaces=namespaces)
-
-tables = SAP.xpath('//w:tbl/w:tr/w:tc/w:p/w:r/w:t[text()="Table Title"]/../../../../..', namespaces=namespaces)
-
-for i in tables.findall('./w:tr/w:tc/w:p/w:r/w:t', namespaces=namespaces):
-    print i.tag, i.text
-
-rootL = etree.iter(SAP.xpath('.//w:tbl/w:tr/w:tc/w:p/w:r/w:t[text()="Table Title"]', namespaces=namespaces))
-# print etree.Element(rootL[0])
-
-tree = etree.ElementTree(rootL[0])
-root = tree.getroot()
-print root.getnext()
-
-# print len(root)
-print etree.tostring(root[0])
-
-
-root.write("/Users/David/projects/XML/root.xml", pretty_print=True)
-# try to get the child of tables
-print tables.child()
-
-for elm in elementList:
-        if elm.text == 'Table Number':
-            print elementList.index(elm)
-            print elm.text
-            tableList = elementList[elementList.index(elm):]
-            break
-
-
-tableList2 = []
-for item in tableList:
-    tableList2.append(item.text)
-
-
+# Initialize Lists
 T = []
 L = []
 F = []
-figure_index = 0
-listing_index = 0
-table_index = 0
-for item in tableList2:
-    if item == 'Figure Number':
-        figure_index = tableList2.index(item)
-    elif item == 'Appendix Number':
-        listing_index = tableList2.index(item)
-    elif item == 'Table number':
-        table_index = tableList2.index(item)
-F = tableList2[figure_index:]
-L = tableList2[listing_index:figure_index]
-T = tableList2[table_index:listing_index]
+# get all text, making sure to perform a join on <w:t> (text) element which have been split across <w:r> (runs)
+for tr in tables:
+    newList =[]
+    [newList.append(t.text) for t in tr.findall('./w:p/w:r/w:t', namespaces=namespaces)]
+    cat = ''.join(newList[0:])
+    T.append(cat)
 
+for tr in listings:
+    newList =[]
+    [newList.append(t.text) for t in tr.findall('./w:p/w:r/w:t', namespaces=namespaces)]
+    cat = ''.join(newList[0:])
+    L.append(cat)
 
-Tdict = dict(T[i:i+2] for i in range(2, len(T), 2))
+for tr in figures:
+    newList =[]
+    [newList.append(t.text) for t in tr.findall('./w:p/w:r/w:t', namespaces=namespaces)]
+    cat = ''.join(newList[0:])
+    F.append(cat)
+
+# put lists into dictionaries to further create JSON output (and text file)
+Tdict = dict(T[i:i+2] for i in range(0, len(T), 2))
 print Tdict
+print json.dumps(Tdict, sort_keys=True, indent=4, separators=(',', ': '))
 Ldict = dict(L[i:i+2] for i in range(2, len(L), 2))
 print Ldict
+print json.dumps(Ldict, sort_keys=True, indent=4, separators=(',', ': '))
 Fdict = dict(F[i:i+2] for i in range(2, len(F), 2))
+print Fdict
+print json.dumps(Fdict, sort_keys=True, indent=4, separators=(',', ': '))
 
+#  create tab separated output files, ensuring that encoding is used for expected results
 outfile = open('Tables', 'w' )
 for key, value in sorted(Tdict.items()):
     outfile.write(str(key) + '\t' + str(value.encode('utf-8')) + '\n' )
@@ -129,3 +77,5 @@ for key, value in sorted(Ldict.items()):
 outfile = open('Figures', 'w' )
 for key, value in sorted(Fdict.items()):
     outfile.write(str(key) + '\t' + str(value.encode('utf-8')) + '\n' )
+
+
