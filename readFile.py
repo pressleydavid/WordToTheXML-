@@ -1,6 +1,7 @@
 import zipfile
 from lxml import etree
 import json
+from searchFiles import find
 
 
 
@@ -57,6 +58,7 @@ for tr in figures:
 # put lists into dictionaries to further create JSON output (and text file)
 Tdict = dict(T[i:i+2] for i in range(0, len(T), 2))
 print Tdict
+find('*.pdf', '/Users/David/projects/XML/output', Tdict)
 print json.dumps(Tdict, sort_keys=True, indent=4, separators=(',', ': '))
 Ldict = dict(L[i:i+2] for i in range(2, len(L), 2))
 print Ldict
