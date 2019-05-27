@@ -1,2 +1,2 @@
-# WordToTheXML-
-a bunch of chicken scratch code to convert Word doc to XML. Needs clean up, but wanted a versioned baseline.
+# SAP Table Extractor
+Cleanup of master branch code 
